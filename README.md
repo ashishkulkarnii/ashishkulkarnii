@@ -11,4 +11,4 @@ I'm Ashish Kulkarni, a student of PES University. I've worked on computer vision
 
 <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishkulkarnii&theme=github_dark" />
 
-<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishkulkarnii&theme=github_dark&utcOffset=8" />
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishkulkarnii&theme=github_dark&utcOffset=5.30" />
